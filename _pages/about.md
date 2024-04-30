@@ -45,9 +45,9 @@ Email: zhaoyf@buaa.edu.cn
 
 - [DR2: Disentangled Recurrent Representation Learning for Data-Efficient Speech Video Synthesis](https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_DR2_Disentangled_Recurrent_Representation_Learning_for_Data-Efficient_Speech_Video_Synthesis_WACV_2024_paper.pdf), <i>Chenxu Zhang, Chao Wang, <b>Yifan Zhao</b>, Shuo Cheng, Linjie Luo, Xiaohu Guo</i>, **Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024**
 
-- [Dual Adaptive Representation Alignment for Cross-domain Few-shot Learning](https://arxiv.org/abs/2306.10511), <i> <b>Yifan Zhao<sup>#</sup></b>, Zhang Tong<sup>#</sup>, Li Jia<sup>\*</sup>, Tian Yonghong<sup>\*</sup>, **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2023**
+- [Dual Adaptive Representation Alignment for Cross-domain Few-shot Learning](https://arxiv.org/abs/2306.10511), <i> <b>Yifan Zhao<sup>#</sup></b>, Zhang Tong<sup>#</sup>, Li Jia<sup>\*</sup>, Tian Yonghong<sup>\*</sup></i>, **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2023**
 
-- [Semantic Contrastive Bootstrapping for Single-positive Multi-label Recognition](https://arxiv.org/pdf/2307.07680), <i> Cheng Chen<sup>#</sup>, <b>Yifan Zhao<sup>#</sup></b>, Li Jia<sup>\*</sup>, **International Journal of Computer Vision (IJCV) 2023**
+- [Semantic Contrastive Bootstrapping for Single-positive Multi-label Recognition](https://arxiv.org/pdf/2307.07680), <i> Cheng Chen<sup>#</sup>, <b>Yifan Zhao<sup>#</sup></b>, Li Jia<sup>\*</sup></i>, **International Journal of Computer Vision (IJCV) 2023**
 
 - [Hierarchical Adaptive Value Estimation for Multi-modal Visual Reinforcement Learning](https://openreview.net/pdf?id=jB4wsc1DQW), <i>Yangru Huang, Peixi Peng, <b>Yifan Zhao</b>, Haoran Xu, Mengyue Geng, Yonghong Tian</i>, **Advances in Neural Information Processing Systems (NeurIPS) 2023**
 
@@ -84,7 +84,7 @@ Email: zhaoyf@buaa.edu.cn
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📖 Education and Experiences
-- *2021.11 - 2022.01*, Boya postdoctoral researcher, Peking University. 
+- *2021.11 - 2024.01*, Boya postdoctoral researcher, Peking University. 
 - *2016.09 - 2021.10*, Ph.D., Beihang University. 
 - *2012.09 - 2016.06*, B.Eng, Harbin Institute of Technology. 
 
