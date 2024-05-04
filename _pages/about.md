@@ -39,7 +39,7 @@ Email: zhaoyf@buaa.edu.cn
 
 - [Parsing Objects at a Finer Granularity: A Survey](https://arxiv.org/abs/2306.10511), <i>Yifan Zhao, Jia Li<sup>\*</sup>, Yonghong Tian<sup>\*</sup></i> **Machine Intelligence Research (MIR) 2024 [Survey Paper]**
 
-- [Sensitivity Decouple Learning for Image Compression Artifacts Reduction](https://zhao1f.github.io/), <i>Li Ma<sup>#</sup>, <b>Yifan Zhao<sup>#</sup></b>, Peixi Peng, Yonghong Tian</i>, **IEEE Transactions on Image Processing (TIP), 2024**
+- [Sensitivity Decouple Learning for Image Compression Artifacts Reduction](https://zhao1f.github.io/), <i>Li Ma<sup>#</sup>, <b>Yifan Zhao<sup>#</sup></b>, Peixi Peng, Yonghong Tian</i>, **IEEE Transactions on Image Processing (TIP) 2024**
 
 - [SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream](https://arxiv.org/pdf/2403.11222), <i>Lin Zhu, Kangmin Jia, <b>Yifan Zhao</b>, Yunshan Qi, Lizhi Wang, Hua Huang</i>, **IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024**
 
@@ -66,10 +66,50 @@ Email: zhaoyf@buaa.edu.cn
 - [Joint self-supervised and reference-guided learning for depth inpainting
 ](https://link.springer.com/content/pdf/10.1007/s41095-021-0259-z.pdf), <i>Heng Wu, Kui Fu, <b>Yifan Zhao</b>, Haokun Song, Jia Li</i>, **Computational Visual Media (CVMJ) 2022**
 
+- [Picking Up Quantization Steps for Compressed Image Classification
+](https://arxiv.org/pdf/2304.10714), <i>Li Ma, Peixi Peng, Guangyao Chen, <b>Yifan Zhao</b>, Siwei Dong, Yonghong Tian</i>, **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2022**
+
+- [Revisiting stochastic learning for generalizable person re-identification
+](https://cvteam.buaa.edu.cn/papers/2022-ACMMM.pdf), <i>Jiajian Zhao<sup>#</sup>, <b>Yifan Zhao<sup>#</sup>,</b>Xiaowu Chen, Jia Li</i>, **ACM International Conference on Multimedia (MM) 2022**
+
+- [Spectrum Random Masking for Generalization in Image-based Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/802a4350ca4fced76b13b8b320af1543-Paper-Conference.pdf), <i>Yangru Huang, Peixi Peng, <b>Yifan Zhao</b>, Guangyao Chen, Yonghong Tian</i>, **Advances in Neural Information Processing Systems (NeurIPS) 2022**
+
+- [Part-guided relational transformers for fine-grained visual recognition](https://arxiv.org/pdf/2212.13685), <i> <b>Yifan Zhao</b>,  Jia Li, Xiaowu Chen, Yonghong Tian</i>, **IEEE Transactions on Image Processing (TIP) 2021**
+
+- [M3tr: Multi-modal multi-label recognition with transformer](https://github.com/iCVTEAM/M3TR), <i>Jiawei Zhao, <b>Yifan Zhao</b>,  Jia Li</i>, **ACM International Conference on Multimedia (MM) 2021**
+
+- [Pose-guided inter-and intra-part relational transformer for occluded person re-identification](https://arxiv.org/pdf/2109.03483), <i>Zhongxing Ma, <b>Yifan Zhao</b>,  Jia Li</i>, **ACM International Conference on Multimedia (MM) 2021**
+
+- [RGB-D salient object detection with ubiquitous target awareness](https://arxiv.org/pdf/2109.03425), <i> <b>Yifan Zhao</b>, Jiawei Zhao, Jia Li, Xiaowu Chen</i>, **IEEE Transactions on Image Processing (TIP) 2021**
+
+- [Selective, structural, subtle: Trilinear spatial-awareness for few-shot fine-grained visual recognition](https://arxiv.org/pdf/2009.08027), <i>Heng Wu, <b>Yifan Zhao</b>,  Jia Li</i>, **IEEE International Conference on Multimedia and Expo (ICME) 2021**
+
+- [DanceIt: music-inspired dancing video synthesis](https://github.com/iCVTEAM/S3Net), <i>Xin Guo, <b>Yifan Zhao</b>,  Jia Li</i>, **IEEE Transactions on Image Processing (TIP) 2021**
+
+- [Ordinal Multi-task Part Segmentation with Recurrent Prior Generation](https://ieeexplore.ieee.org/abstract/document/8903484/), <i> <b>Yifan Zhao</b>, Yu Zhang, Yafei Song, Li Jia<sup>\*</sup>, Tian Yonghong</i>, **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2021**
+
+- [Transformer-based dual relation graph for multi-label image recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Transformer-Based_Dual_Relation_Graph_for_Multi-Label_Image_Recognition_ICCV_2021_paper.pdf), <i>Jiawei Zhao, Ke Yan, <b>Yifan Zhao</b>, Xiaowei Guo, Feiyue Huang, Jia Li</i>, **IEEE International Conference on Computer Vision (ICCV) 2021**
+
+- [Heterogeneous relational complement for vehicle re-identification](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Heterogeneous_Relational_Complement_for_Vehicle_Re-Identification_ICCV_2021_paper.pdf), <i>Jiajian Zhao<sup>#</sup>, <b>Yifan Zhao<sup>#</sup></b>, Jia Li, Ke Yan, Yonghong Tian</i>, **IEEE International Conference on Computer Vision (ICCV) 2021**
+
+- [Facial: Synthesizing dynamic talking face with implicit attribute learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_FACIAL_Synthesizing_Dynamic_Talking_Face_With_Implicit_Attribute_Learning_ICCV_2021_paper.pdf), <i>Chenxu Zhang, <b>Yifan Zhao</b>, Yifei Huang, Ming Zeng, Saifeng Ni, Madhukar Budagavi, Xiaohu Guo</i>, **IEEE International Conference on Computer Vision (ICCV) 2021**
+
+- [Graph-based high-order relation discovery for fine-grained recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Graph-Based_High-Order_Relation_Discovery_for_Fine-Grained_Recognition_CVPR_2021_paper.pdf), <i><b>Yifan Zhao</b>, Ke Yan, Feiyue Huang, Jia Li</i>, **IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021**
+
+- [Cooperative bi-path metric for few-shot learning](https://arxiv.org/pdf/2008.04031), <i>Zeyuan Wang, <b>Yifan Zhao</b>, Jia Li, Tian Yonghong</i>, **ACM International Conference on Multimedia (MM) 2020**
+
+- [Cartoon Face Recognition: A Benchmark Dataset](https://arxiv.org/pdf/1907.13394), <i>Yi Zheng, <b>Yifan Zhao</b>, Mengyuan Ren, He Yan, Xiangju Lu, Junhui Liu, Jia Li</i>, **ACM International Conference on Multimedia (MM) 2020**
+
+- [Is Depth Really Necessary for Salient Object Detection?](https://arxiv.org/pdf/2006.00269), <i> Jiawei Zhao<sup>#</sup>, <b>Yifan Zhao<sup>#</sup></b>, Jia Li, Xiaowu Chen</i>, **ACM International Conference on Multimedia (MM) 2020**
+
+- [Reconstructing part-level 3D models from a single image](https://www.researchgate.net/profile/Yifan-Zhao-30/publication/342604427_Reconstructing_Part-Level_3D_Models_From_a_Single_Image/links/5f8f9658458515b7cf90e509/Reconstructing-Part-Level-3D-Models-From-a-Single-Image.pdf), <i> Dingfeng Shi, <b>Yifan Zhao</b>, Jia Li, Xiaowu Chen</i>, **IEEE International Conference on Multimedia and Expo (ICME) 2020**
+
+- [Cross-reference stitching quality assessment for 360 omnidirectional images](https://dl.acm.org/doi/abs/10.1145/3343031.3350973), <i>Jia Li, Kaiwen Yu, <b>Yifan Zhao</b>, Yu Zhang, Long Xu</i>, **ACM International Conference on Multimedia (MM) 2019**
+
+- [Multi-class part parsing with joint boundary-semantic awareness](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Multi-Class_Part_Parsing_With_Joint_Boundary-Semantic_Awareness_ICCV_2019_paper.pdf), <i><b>Yifan Zhao</b>, Jia Li, Yu Zhang, Tian Yonghong</i>, **IEEE International Conference on Computer Vision (ICCV) 2019**
 
 
-
-
+- [Part-regularized near-duplicate vehicle re-identification](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf), <i> Bing He, Jia Li, <b>Yifan Zhao</b>, Tian Yonghong</i>, **IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019**
 
 
 
@@ -77,7 +117,7 @@ Email: zhaoyf@buaa.edu.cn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[xxxxxxxxxxxxxxxxxxxxxPage ](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[xxxxxxxxxxxxxxxxxxxxxPage ](https://openaccess.thecvf.com)
 
 **Yifan Zhao**, , XXX
 
