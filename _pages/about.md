@@ -37,7 +37,7 @@ Email: zhaoyf@buaa.edu.cn
 
 # 📝 Publications 
 
-- [Parsing Objects at a Finer Granularity: A Survey](https://arxiv.org/abs/2306.10511), <i><b>Yifan Zhao</b> Jia Li<sup>\*</sup>, Yonghong Tian<sup>\*</sup></i> **Machine Intelligence Research (MIR) 2024 [Survey Paper]**
+- [Parsing Objects at a Finer Granularity: A Survey](https://arxiv.org/pdf/2212.13693), <i><b>Yifan Zhao</b> Jia Li<sup>\*</sup>, Yonghong Tian<sup>\*</sup></i> **Machine Intelligence Research (MIR) 2024 [Survey Paper]**
 
 - [Sensitivity Decouple Learning for Image Compression Artifacts Reduction](https://zhao1f.github.io/), <i>Li Ma<sup>#</sup>, <b>Yifan Zhao<sup>#</sup></b>, Peixi Peng, Yonghong Tian</i>, **IEEE Transactions on Image Processing (TIP) 2024**
 
