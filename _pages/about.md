@@ -114,28 +114,45 @@ Email: zhaoyf@buaa.edu.cn
 
 
 # 💻 Research Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/survey-mir.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[xxxxxxxxxxxxxxxxxxxxxPage ](https://openaccess.thecvf.com)
+[Paper](https://arxiv.org/abs/2306.10511)
 
-**Yifan Zhao**, , XXX
+**Yifan Zhao**, Jia Li, Tian Yonghong, Parsing Objects at a Finer Granularity: A Survey,  **Machine Intelligence Research (MIR) 2024**.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://arxiv.org/abs/2306.10511) <strong><span class='show_paper_citations' data=''></span></strong>
+- Fine-grained Recognition and Segmentation: A Survey. 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/bas-iccv19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Paper](http://cvteam.net/papers/2019_ICCV_Multi-class%20Part%20Parsing%20with%20Joint%20Boundary-Semantic%20Awareness.pdf)
+
+**Yifan Zhao**, Jia Li, Yu Zhang, Tian Yonghong, Multi-class part parsing with joint boundary-semantic awareness,  **IEEE International Conference on Computer Vision (ICCV) 2019**.
+
+[**Project**](https://github.com/iCVTEAM/BASNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- First Multi-class Part Segmentation Dataset, Oral (Top 4.3%). 
 </div>
 </div>
 
 
 # 📖 Education and Experiences
-- *2021.11 - 2024.01*, Boya postdoctoral researcher, Peking University. 
+- *2024.02 - Now*, Associate Professor, Beihang University. 
+- *2021.11 - 2024.01*, Boya Postdoctoral Researcher, Peking University. 
 - *2016.09 - 2021.10*, Ph.D., Beihang University. 
 - *2012.09 - 2016.06*, B.Eng, Harbin Institute of Technology. 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* CSIG Excellent Doctoral Dissertation Award Nomination. 
+- *2022.06* Excellent Doctoral Dissertation Award of Beihang University.
+- *2021.06* Champion of FGVC8-iMET CVPR2021 Challenge.
+- ICCV 2021 Outstanding Reviewer, NeurIPS 2023 Outstanding Reviewer.
 
 
 
