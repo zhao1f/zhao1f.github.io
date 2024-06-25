@@ -114,7 +114,7 @@ Email: zhaoyf@buaa.edu.cn
 
 
 # 💻 Research Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/survey-mir.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2024</div><img src='images/survey-mir.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Paper](https://arxiv.org/abs/2306.10511)
