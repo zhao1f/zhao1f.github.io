@@ -18,9 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently an associate professor at the State Key Laboratory of Virtual Reality Technology and Systems, School of Computer Science and Engineering, Beihang University. I obtained my Ph.D degree from Beihang University in November 2021, supervised by Prof. <a href='http://cvteam.net/members/lijia/upload/index.html'>Jia Li</a>. From November 2021 to January 2024, he engaged in Boya postdoctoral researcher at the National Engineering Research Center of Visual Technology at Peking University, working with Prof. <a href='https://www.pkuml.org/staff/yhtian.html'>Yonghong Tian</a>. 
+I am currently an associate professor at the School of Computer Science and Engineering, Beihang University, and a member of the State Key Laboratory of Virtual Reality Technology and Systems. I received my B.E. from Harbin Institute of Technology in 2016 and my Ph.D. from Beihang University in 2021. From November 2021 to January 2024, I was a Boya Postdoctoral Fellow at the National Engineering Research Center of Visual Technology, Peking University, working with Prof. <a href='https://www.pkuml.org/staff/yhtian.html'>Yonghong Tian</a>. My Ph.D. advisor was Prof. <a href='http://cvteam.net/members/lijia/upload/index.html'>Jia Li</a>.
 
-My research interests include multi-modal visual understanding, fine-grained visual object analysis, and AR/VR content generation. I have published 28 CCF-A papers such as TPAMI, IJCV, CVPR/ICCV, and NeurIPS, and was awarded the Outstanding Reviewer of ICCV2021 and NeurIPS2023 and the Champion of FGVC8-iMET Challenge of the CVPR2021 Conference. <a href='https://scholar.google.com/citations?user=bUzykm0AAAAJ'> <img alt="Google Scholar" src="https://img.shields.io/badge/Google-Scholar-blue"></a> 
+My research focuses on generative artificial intelligence, fine-grained visual object recognition & parsing, and AR/VR content generation. I have published over 40 CCF-A papers in top-tier journals and conferences such as TPAMI, IJCV, CVPR, ICCV, and NeurIPS. Among these, 23 are first/co-first/corresponding author CCF-A papers, including 16 first-authored works with 4 first-authored TPAMI papers.
+
+I have served as an Area Chair for prestigious conferences, including NeurIPS 2025 and ICLR 2026, and have been recognized as an Outstanding Reviewer at ICCV 2021 and NeurIPS 2023. I also led the team that won the Championship in the FGVC8-iMET Challenge at CVPR 2021.
+
+My research has been supported by grants from the National Natural Science Foundation of China (Youth Program) and the China Postdoctoral Science Foundation. I have also participated in two Key Programs of the National Natural Science Foundation of China. In addition, I have applied for 22 Chinese/U.S. invention patents, with 19 already granted.
+
+I have been honored with several awards for my doctoral work, including the Outstanding Doctoral Dissertation Award from Beihang University and the Excellent Doctoral Dissertation Nomination Award from the China Society of Image and Graphics. <a href='https://scholar.google.com/citations?user=bUzykm0AAAAJ'> <img alt="Google Scholar" src="https://img.shields.io/badge/Google-Scholar-blue"></a> 
 
 
  
@@ -31,11 +37,15 @@ Github Page: <a href='https://github.com/iCVTEAM'>  <img alt="CVTEAM" src="https
 
 Email: zhaoyf@buaa.edu.cn
 
-
+<!-- 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 I joined the School of Computer Science and Engineering, at Beihang University. 
+-->
 
 # 📝 Publications 
+
+
+- [Diffusion-Classifier Synergy: Reward-Aligned Learning via Mutual Boosting Loop for FSCIL](https://arxiv.org/abs/2510.03608), <i>Ruitao Wu, <b>Yifan Zhao<sup>\*</sup></b>, Guangyao Chen, Jia Li<sup>\*</sup></i>, **Advances in Neural Information Processing Systems (NeurIPS) 2025**
 
 - [Parsing Objects at a Finer Granularity: A Survey](https://arxiv.org/pdf/2212.13693), <i><b>Yifan Zhao</b> Jia Li<sup>\*</sup>, Yonghong Tian<sup>\*</sup></i> **Machine Intelligence Research (MIR) 2024 [Survey Paper]**
 
