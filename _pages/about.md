@@ -46,6 +46,11 @@ Email: zhaoyf@buaa.edu.cn
 
 
 - [Diffusion-Classifier Synergy: Reward-Aligned Learning via Mutual Boosting Loop for FSCIL](https://arxiv.org/abs/2510.03608), <i>Ruitao Wu, <b>Yifan Zhao<sup>\*</sup></b>, Guangyao Chen, Jia Li<sup>\*</sup></i>, **Advances in Neural Information Processing Systems (NeurIPS) 2025**
+- [Re-coding for Uncertainties: Edge-awareness Semantic Concordance for Resilient Event-RGB Segmentation](https://openreview.net/pdf?id=uG9F00zKJF), <i>Nan Bao, <b>Yifan Zhao<sup>\*</sup></b>, Lin Zhu, Jia Li<sup>\*</sup></i>, **Advances in Neural Information Processing Systems (NeurIPS) 2025**- 
+- [TGA: True-to-Geometry Avatar Dynamic Reconstruction](https://openreview.net/pdf?id=EyFrTjaYU3), <i>Bo Guo, Sijia Wen, Ziwei Wang, <b>Yifan Zhao</b></i>, **Advances in Neural Information Processing Systems (NeurIPS) 2025**
+- [FICGen: Frequency-Inspired Contextual Disentanglement for Layout-driven Degraded Image Generation
+](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_FICGen_Frequency-Inspired_Contextual_Disentanglement_for_Layout-driven_Degraded_Image_Generation_ICCV_2025_paper.pdf), <i>Wenzhuang Wang, <b>Yifan Zhao</b></i>, Mingcan Ma, Ming Liu, Zhonglin Jiang, Yong Chen, Jia Li</i> **IEEE International Conference on Computer Vision (ICCV) 2025**
+
 
 - [Parsing Objects at a Finer Granularity: A Survey](https://arxiv.org/pdf/2212.13693), <i><b>Yifan Zhao</b> Jia Li<sup>\*</sup>, Yonghong Tian<sup>\*</sup></i> **Machine Intelligence Research (MIR) 2024 [Survey Paper]**
 
