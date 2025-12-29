@@ -43,31 +43,24 @@ Email: zhaoyf@buaa.edu.cn
 -->
 
 # 📝 Publications 
-
-
+- [Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Provoking_Multi-modal_Few-Shot_LVLM_via_Exploration-Exploitation_In-Context_Learning_CVPR_2025_paper.html), <i>Cheng Chen, Yunpeng Zhai, <b>Yifan Zhao<sup>\*</sup></b>, Jinyang Gao, Bolin Ding, Jia Li</i> **IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025**
+- [Towards Unified Co-Speech Gesture Generation via Hierarchical Implicit Periodicity Learning](https://arxiv.org/abs/2512.13131), <i>Xin Guo, <b>Yifan Zhao<sup>\*</sup></b>, Jia Li<sup>\*</sup></i>, **IEEE Transactions on Image Processing (TIP) 2025**
 - [Diffusion-Classifier Synergy: Reward-Aligned Learning via Mutual Boosting Loop for FSCIL](https://arxiv.org/abs/2510.03608), <i>Ruitao Wu, <b>Yifan Zhao<sup>\*</sup></b>, Guangyao Chen, Jia Li<sup>\*</sup></i>, **Advances in Neural Information Processing Systems (NeurIPS) 2025**
 - [Re-coding for Uncertainties: Edge-awareness Semantic Concordance for Resilient Event-RGB Segmentation](https://openreview.net/pdf?id=uG9F00zKJF), <i>Nan Bao, <b>Yifan Zhao<sup>\*</sup></b>, Lin Zhu, Jia Li<sup>\*</sup></i>, **Advances in Neural Information Processing Systems (NeurIPS) 2025**- 
 - [TGA: True-to-Geometry Avatar Dynamic Reconstruction](https://openreview.net/pdf?id=EyFrTjaYU3), <i>Bo Guo, Sijia Wen, Ziwei Wang, <b>Yifan Zhao</b></i>, **Advances in Neural Information Processing Systems (NeurIPS) 2025, Spotlight** 
 - [FICGen: Frequency-Inspired Contextual Disentanglement for Layout-driven Degraded Image Generation
 ](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_FICGen_Frequency-Inspired_Contextual_Disentanglement_for_Layout-driven_Degraded_Image_Generation_ICCV_2025_paper.pdf), <i>Wenzhuang Wang, <b>Yifan Zhao<sup>\*</sup></b>, Mingcan Ma, Ming Liu, Zhonglin Jiang, Yong Chen, Jia Li</i> **IEEE International Conference on Computer Vision (ICCV) 2025**
 - [Learning Yourself: Class-Incremental Semantic Segmentation with Language-Inspired Bootstrapped Disentanglement](https://openaccess.thecvf.com/content/ICCV2025/html/Wu_Learning_Yourself_Class-Incremental_Semantic_Segmentation_with_Language-Inspired_Bootstrapped_Disentanglement_ICCV_2025_paper.html), <i>Ruitao Wu, <b>Yifan Zhao<sup>\*</sup></b>, Jia Li</i> **IEEE International Conference on Computer Vision (ICCV) 2025**
-- [When Every Millisecond Counts: Real-Time Anomaly Detection via the Multimodal Asynchronous Hybrid Network](https://arxiv.org/abs/2506.17457), <i>Dong Xiao, Guangyao Chen, Peixi Peng, Yangru Huang, <b>Yifan Zhao</b>, Yongxing Dai, Yonghong Tian</i> **Forty-second International Conference on Machine Learning (ICML) 2025, Spotlight**
+- [When Every Millisecond Counts: Real-Time Anomaly Detection via the Multimodal Asynchronous Hybrid Network](https://arxiv.org/abs/2506.17457), <i>Dong Xiao, Guangyao Chen, Peixi Peng, Yangru Huang, <b>Yifan Zhao</b>, et al</i> **Forty-second International Conference on Machine Learning (ICML) 2025, Spotlight**
 - [Free Lunch to Meet the Gap: Intermediate Domain Reconstruction for Cross-Domain Few-Shot Learning](https://link.springer.com/article/10.1007/s11263-025-02419-1), <i>Tong Zhang, <b>Yifan Zhao<sup>\*</sup></b>, Liangyu Wang, Jia Li</i> **International Journal of Computer Vision (IJCV) 2025**
-
-- [Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Provoking_Multi-modal_Few-Shot_LVLM_via_Exploration-Exploitation_In-Context_Learning_CVPR_2025_paper.html), <i>Cheng Chen, Yunpeng Zhai, <b>Yifan Zhao<sup>\*</sup></b>, Jinyang Gao, Bolin Ding, Jia Li</i> **IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025**
 - [Language-Inspired Relation Transfer for Few-Shot Class-Incremental Learning](https://ieeexplore.ieee.org/abstract/document/10746343/), <i> <b>Yifan Zhao</b>, Jia Li, Zeyin Song, Yonghong Tian</i>  **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2025**
-- [How to Use Diffusion Priors under Sparse Views?](https://proceedings.neurips.cc/paper_files/paper/2024/file/362d683723e7d6c12a093961ec2e5051-Paper-Conference.pdf), <i> Qisen Wang, <b>Yifan Zhao<sup>\*</sup></b>, Jiawei Ma, Jia Li</i>  **Advances in Neural Information Processing Systems (NeurIPS) 2024**
-
-- [Seek Commonality but Preserve Differences: Dissected Dynamics Modeling for Multi-modal Visual RL](https://proceedings.neurips.cc/paper_files/paper/2024/file/03341fe3c3f848f699b201ce72c13e11-Paper-Conference.pdf), <i> Yangru Huang, Peixi Peng,<b>Yifan Zhao</b>, Guangyao Chen, Yonghong Tian</i>  **Advances in Neural Information Processing Systems (NeurIPS) 2024**
-- [Deblurring neural radiance fields with event-driven bundle adjustment](https://proceedings.neurips.cc/paper_files/paper/2024/file/03341fe3c3f848f699b201ce72c13e11-Paper-Conference.pdf), <i> Yunshan Qi, Lin Zhu, <b>Yifan Zhao</b>, Nan Bao, Jia Li</i>  **ACM International Conference on Multimedia (MM) 2024**
-- [Parsing Objects at a Finer Granularity: A Survey](https://arxiv.org/pdf/2212.13693), <i><b>Yifan Zhao</b> Jia Li<sup>\*</sup>, Yonghong Tian<sup>\*</sup></i> **Machine Intelligence Research (MIR) 2024 [Survey Paper]**
-
-- [Sensitivity Decouple Learning for Image Compression Artifacts Reduction](https://zhao1f.github.io/), <i>Li Ma<sup>#</sup>, <b>Yifan Zhao<sup>#</sup></b>, Peixi Peng, Yonghong Tian</i>, **IEEE Transactions on Image Processing (TIP) 2024**
-
 - [SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream](https://arxiv.org/pdf/2403.11222), <i>Lin Zhu, Kangmin Jia, <b>Yifan Zhao</b>, Yunshan Qi, Lizhi Wang, Hua Huang</i>, **IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024**
-
 - [DR2: Disentangled Recurrent Representation Learning for Data-Efficient Speech Video Synthesis](https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_DR2_Disentangled_Recurrent_Representation_Learning_for_Data-Efficient_Speech_Video_Synthesis_WACV_2024_paper.pdf), <i>Chenxu Zhang, Chao Wang, <b>Yifan Zhao</b>, Shuo Cheng, Linjie Luo, Xiaohu Guo</i>, **Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024**
-
+- [How to Use Diffusion Priors under Sparse Views?](https://proceedings.neurips.cc/paper_files/paper/2024/file/362d683723e7d6c12a093961ec2e5051-Paper-Conference.pdf), <i> Qisen Wang, <b>Yifan Zhao<sup>\*</sup></b>, Jiawei Ma, Jia Li</i>  **Advances in Neural Information Processing Systems (NeurIPS) 2024**
+- [Deblurring neural radiance fields with event-driven bundle adjustment](https://proceedings.neurips.cc/paper_files/paper/2024/file/03341fe3c3f848f699b201ce72c13e11-Paper-Conference.pdf), <i> Yunshan Qi, Lin Zhu, <b>Yifan Zhao</b>, Nan Bao, Jia Li</i>  **ACM International Conference on Multimedia (MM) 2024**
+- [Seek Commonality but Preserve Differences: Dissected Dynamics Modeling for Multi-modal Visual RL](https://proceedings.neurips.cc/paper_files/paper/2024/file/03341fe3c3f848f699b201ce72c13e11-Paper-Conference.pdf), <i> Yangru Huang, Peixi Peng,<b>Yifan Zhao</b>, Guangyao Chen, Yonghong Tian</i>  **Advances in Neural Information Processing Systems (NeurIPS) 2024**
+- [Parsing Objects at a Finer Granularity: A Survey](https://arxiv.org/pdf/2212.13693), <i><b>Yifan Zhao</b> Jia Li, Yonghong Tian</i> **Machine Intelligence Research (MIR) 2024 [Survey Paper]**
+- [Sensitivity Decouple Learning for Image Compression Artifacts Reduction](https://zhao1f.github.io/), <i>Li Ma<sup>#</sup>, <b>Yifan Zhao<sup>#</sup></b>, Peixi Peng, Yonghong Tian</i>, **IEEE Transactions on Image Processing (TIP) 2024**
 - [Dual Adaptive Representation Alignment for Cross-domain Few-shot Learning](https://arxiv.org/abs/2306.10511), <i> <b>Yifan Zhao<sup>#</sup></b>, Zhang Tong<sup>#</sup>, Li Jia<sup>\*</sup>, Tian Yonghong<sup>\*</sup></i>, **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2023**
 
 - [Semantic Contrastive Bootstrapping for Single-positive Multi-label Recognition](https://arxiv.org/pdf/2307.07680), <i> Cheng Chen<sup>#</sup>, <b>Yifan Zhao<sup>#</sup></b>, Li Jia<sup>\*</sup></i>, **International Journal of Computer Vision (IJCV) 2023**
@@ -82,9 +75,9 @@ Email: zhaoyf@buaa.edu.cn
 
 - [Invariant and consistent: Unsupervised representation learning for few-shot visual recognition](https://github.com/iCVTEAM/InCo), <i>Heng Wu,<b>Yifan Zhao</b>, Jia Li<sup>\*</sup></i>, **Neurocomputing 2023**
 
-- [局部关系泛化表征的小样本增量学习](https://github.com/iCVTEAM/G-FSCIL), <i><b>赵一凡</b>， 李甲<sup>\*</sup>， 田永鸿<sup>\*</sup></i>, **中国科学：信息科学 2023 (CCF-A中文期刊)**
+- [局部关系泛化表征的小样本增量学习](https://github.com/iCVTEAM/G-FSCIL), <i><b>赵一凡</b>， 李甲， 田永鸿</i>, **中国科学：信息科学 2023 (CCF-A中文期刊)**
 
-- [From Pose to Part: Weakly-Supervised Pose Evolution for Human Part Segmentation](https://ieeexplore.ieee.org/document/9772949), <i> <b>Yifan Zhao</b>, Yu Zhang, Li Jia<sup>\*</sup>, Tian Yonghong</i>, **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2022**
+- [From Pose to Part: Weakly-Supervised Pose Evolution for Human Part Segmentation](https://ieeexplore.ieee.org/document/9772949), <i> <b>Yifan Zhao</b>, Yu Zhang, Li Jia<sup>\*</sup>, et al</i>, **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2022**
 
 - [Joint self-supervised and reference-guided learning for depth inpainting
 ](https://link.springer.com/content/pdf/10.1007/s41095-021-0259-z.pdf), <i>Heng Wu, Kui Fu, <b>Yifan Zhao</b>, Haokun Song, Jia Li</i>, **Computational Visual Media (CVMJ) 2022**
@@ -135,7 +128,7 @@ Email: zhaoyf@buaa.edu.cn
 - [Part-regularized near-duplicate vehicle re-identification](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf), <i> Bing He, Jia Li, <b>Yifan Zhao</b>, Tian Yonghong</i>, **IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019**
 
 
-
+<!--
 # 💻 Research Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIR 2024</div><img src='images/survey-mir.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -148,7 +141,7 @@ Email: zhaoyf@buaa.edu.cn
 - Fine-grained Recognition and Segmentation: A Survey. 
 </div>
 </div>
-
+-->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/bas-iccv19.png' alt="sym" width="100%"></div></div>
