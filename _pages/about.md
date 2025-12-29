@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently an associate professor at the School of Computer Science and Engineering, Beihang University, and a member of the State Key Laboratory of Virtual Reality Technology and Systems. I received my B.E. from Harbin Institute of Technology in 2016 and my Ph.D. from Beihang University in 2021. From November 2021 to January 2024, I was a Boya Postdoctoral Fellow at the National Engineering Research Center of Visual Technology, Peking University, working with Prof. <a href='https://www.pkuml.org/staff/yhtian.html'>Yonghong Tian</a>. My Ph.D. advisor was Prof. <a href='http://cvteam.net/members/lijia/upload/index.html'>Jia Li</a>.
+I am currently an associate professor at the School of Computer Science and Engineering, Beihang University, and a member of the State Key Laboratory of Virtual Reality Technology and Systems. I received my B.E. from Harbin Institute of Technology in 2016 and my Ph.D. from Beihang University in 2021. From November 2021 to January 2024, I was a Boya Postdoctoral Fellow at the National Engineering Research Center of Visual Technology, Peking University. 
 
 My research focuses on generative artificial intelligence, fine-grained visual object recognition & parsing, and AR/VR content generation. I have published over 40 CCF-A papers in top-tier journals and conferences such as TPAMI, IJCV, CVPR, ICCV, and NeurIPS. Among these, 23 are first/co-first/corresponding author CCF-A papers, including 16 first-authored works with 4 first-authored TPAMI papers.
 
@@ -31,7 +31,7 @@ I have been honored with several awards for my doctoral work, including the Outs
 
  
 
-He is a member of <a href='https://cvteam.buaa.edu.cn/'>CVTEAM</a>. 
+He is a member of <a href='https://cvteam.buaa.edu.cn/'>CVTEAM</a>, working with Prof. <a href='http://cvteam.net/members/lijia/upload/index.html'>Jia Li</a>.
 Lab Page: <img alt="CVTEAM" src="https://img.shields.io/badge/Lab-CVTEAM-blue">  <a href='https://cvteam.buaa.edu.cn/'></a> 
 Github Page: <a href='https://github.com/iCVTEAM'>  <img alt="CVTEAM" src="https://img.shields.io/badge/github-CVTEAM-red"> </a>
 
