@@ -42,7 +42,7 @@ Email: zhaoyf@buaa.edu.cn
 -->
 
 # 📝 Publications 
-- [Beyond Heat Dissipation: Optimizing Diffusion Models in Frequency Domain](https://ieeexplore.ieee.org/document/11408038/), <i>Qisen Wang, <b>Yifan Zhao<sup>\*</sup></b>, Jia Lisup>\*</sup> </i> **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2026**
+- [Beyond Heat Dissipation: Optimizing Diffusion Models in Frequency Domain](https://ieeexplore.ieee.org/document/11408038/), <i>Qisen Wang, <b>Yifan Zhao<sup>\*</sup></b>, Jia Li<sup>\*</sup> </i> **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2026**
 - [Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events](https://arxiv.org/pdf/2601.15475), <i>Yunshan Qi, Lin Zhu, Nan Bao, <b>Yifan Zhao</b>, Jia Li</i> **IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026**
 - [DSNeRF: Dynamic View Synthesis for Ultra-Fast Scenes from Continuous Spike Streams](https://www.computer.org/csdl/journal/tp/5555/01/11361264/2dumcI0ujK0), <i>Lin Zhu, Kangmin Jia, Yifan Zhao, Yunshan Qi, Lizhi Wang, Hua Huang</i> **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2026**
 - [WorldTree: Towards 4D Dynamic Worlds from Monocular Video using Tree-Chains](https://arxiv.org/abs/2602.11845),<i>Qisen Wang, <b>Yifan Zhao<sup>\*</sup></b>, Jia Lisup>\*</sup> </i> **The Fourteenth International Conference on Learning Representations (ICLR) 2026**
