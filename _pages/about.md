@@ -17,12 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
 I am currently an associate professor at the School of Computer Science and Engineering, Beihang University, and a member of the State Key Laboratory of Virtual Reality Technology and Systems. I received my B.E. from Harbin Institute of Technology in 2016 and my Ph.D. from Beihang University in 2021. From November 2021 to January 2024, I was a Boya Postdoctoral Fellow at the National Engineering Research Center of Visual Technology, Peking University. 
 
-My research focuses on generative artificial intelligence, fine-grained visual object recognition & parsing, and AR/VR content generation. I have published over 40 CCF-A papers in top-tier journals and conferences such as TPAMI, IJCV, CVPR, ICCV, and NeurIPS. Among these, 23 are first/co-first/corresponding author CCF-A papers, including 16 first-authored works with 4 first-authored TPAMI papers.
+My research focuses on generative artificial intelligence, fine-grained visual object recognition & parsing, and AR/VR content generation. I have published over 50 CCF-A papers in top-tier journals and conferences such as TPAMI, IJCV, CVPR, ICCV, and NeurIPS. Among these, 26 are first/co-first/corresponding author CCF-A papers, including 16 first-authored works with 5 first-authored/corresponding author TPAMI papers.
 
-I have served as an Area Chair for prestigious conferences, including NeurIPS 2025 and ICLR 2026, and have been recognized as an Outstanding Reviewer at ICCV 2021 and NeurIPS 2023. I also led the team that won the Championship in the FGVC8-iMET Challenge at CVPR 2021.
+I have served as an Area Chair for prestigious conferences, including NeurIPS 2025, ICML 2026 and ICLR 2026, and have been recognized as an Outstanding Reviewer at ICCV 2021, NeurIPS 2023, AAAI 2026 Outstanding PC (0.16%). I also led the team that won the Championship in the FGVC8-iMET Challenge at CVPR 2021.
 
 My research has been supported by grants from the National Natural Science Foundation of China (Youth Program) and the China Postdoctoral Science Foundation. I have also participated in two Key Programs of the National Natural Science Foundation of China. In addition, I have applied for 22 Chinese/U.S. invention patents, with 19 already granted.
 
@@ -43,8 +42,12 @@ Email: zhaoyf@buaa.edu.cn
 -->
 
 # 📝 Publications 
+- [Beyond Heat Dissipation: Optimizing Diffusion Models in Frequency Domain](https://ieeexplore.ieee.org/document/11408038/), <i>Qisen Wang, <b>Yifan Zhao<sup>\*</sup></b>, Jia Lisup>\*</sup> </i> **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2026**
+- [Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events](https://arxiv.org/pdf/2601.15475), <i>Yunshan Qi, Lin Zhu, Nan Bao, <b>Yifan Zhao</b>, Jia Li</i> **IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026**
+- [DSNeRF: Dynamic View Synthesis for Ultra-Fast Scenes from Continuous Spike Streams](https://www.computer.org/csdl/journal/tp/5555/01/11361264/2dumcI0ujK0), <i>Lin Zhu, Kangmin Jia, Yifan Zhao, Yunshan Qi, Lizhi Wang, Hua Huang</i> **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2026**
+- [WorldTree: Towards 4D Dynamic Worlds from Monocular Video using Tree-Chains](https://arxiv.org/abs/2602.11845),<i>Qisen Wang, <b>Yifan Zhao<sup>\*</sup></b>, Jia Lisup>\*</sup> </i> **The Fourteenth International Conference on Learning Representations (ICLR) 2026**
 - [Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Provoking_Multi-modal_Few-Shot_LVLM_via_Exploration-Exploitation_In-Context_Learning_CVPR_2025_paper.html), <i>Cheng Chen, Yunpeng Zhai, <b>Yifan Zhao<sup>\*</sup></b>, Jinyang Gao, Bolin Ding, Jia Li</i> **IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2025**
-- [Towards Unified Co-Speech Gesture Generation via Hierarchical Implicit Periodicity Learning](https://arxiv.org/abs/2512.13131), <i>Xin Guo, <b>Yifan Zhao<sup>\*</sup></b>, Jia Li<sup>\*</sup></i>, **IEEE Transactions on Image Processing (TIP) 2025**
+- [Towards Unified Co-Speech Gesture Generation via Hierarchical Implicit Periodicity Learning](https://arxiv.org/abs/2512.13131), <i>Xin Guo, <b>Yifan Zhao<sup>\*</sup></b>, Jia Li<sup>\*</sup></i>, **IEEE Transactions on Image Processing (TIP) 2026**
 - [Diffusion-Classifier Synergy: Reward-Aligned Learning via Mutual Boosting Loop for FSCIL](https://arxiv.org/abs/2510.03608), <i>Ruitao Wu, <b>Yifan Zhao<sup>\*</sup></b>, Guangyao Chen, Jia Li<sup>\*</sup></i>, **Advances in Neural Information Processing Systems (NeurIPS) 2025**
 - [Re-coding for Uncertainties: Edge-awareness Semantic Concordance for Resilient Event-RGB Segmentation](https://openreview.net/pdf?id=uG9F00zKJF), <i>Nan Bao, <b>Yifan Zhao<sup>\*</sup></b>, Lin Zhu, Jia Li<sup>\*</sup></i>, **Advances in Neural Information Processing Systems (NeurIPS) 2025**- 
 - [TGA: True-to-Geometry Avatar Dynamic Reconstruction](https://openreview.net/pdf?id=EyFrTjaYU3), <i>Bo Guo, Sijia Wen, Ziwei Wang, <b>Yifan Zhao</b></i>, **Advances in Neural Information Processing Systems (NeurIPS) 2025, Spotlight** 
